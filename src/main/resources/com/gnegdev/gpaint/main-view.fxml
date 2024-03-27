@@ -63,7 +63,7 @@
               <content>
                 <AnchorPane style="-fx-border-style: solid inside;">
                      <children>
-                        <Canvas fx:id="canvas" height="720.0" width="1080.0" />
+                        <Canvas fx:id="canvas" height="720.0" style="-fx-cursor: crosshair;" width="1080.0" />
                      </children>
                   </AnchorPane>
               </content>
